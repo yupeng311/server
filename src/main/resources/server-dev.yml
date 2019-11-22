@@ -4,3 +4,5 @@ spring:
 logging:
   level:
     com.taikangcloud.demo: DEBUG
+server:
+  port: 9000
